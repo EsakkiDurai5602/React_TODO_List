@@ -1,0 +1,20 @@
+{
+    "courses":[
+            {"id":1,"name":"C","price":600,"ratings":3},
+            {"id":2,"name":"C++","price":700,"ratings":4},
+            {"id":3,"name":"C#","price":800,"ratings":5},
+            {"id":4,"name":"Java","price":800,"ratings":5},
+            {"id":5,"name":"Python","price":800,"ratings":4},
+            {"id":6,"name":"HTML","price":400,"ratings":4},
+            {"id":7,"name":"CSS","price":500,"ratings":3},
+            {"id":8,"name":"JS","price":750,"ratings":4},
+            {"id":9,"name":"React","price":900,"ratings":5},
+            {"id":10,"name":"SpringBoot","price":100,"ratings":4},
+            {"id":11,"name":"Node.js","price":600,"ratings":3},
+            {"id":12,"name":"SQL","price":650,"ratings":4},
+            {"id":13,"name":"MySQL","price":900,"ratings":5},
+            {"id":14,"name":"HTML","price":400,"ratings":4},
+            {"id":15,"name":"MongoDB","price":700,"ratings":3},
+            {"id":16,"name":"Express.JS","price":900,"ratings":4}
+    ]
+}
